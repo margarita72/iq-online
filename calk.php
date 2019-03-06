@@ -15,7 +15,7 @@ $refill2=$_POST['refill2'];
 //echo $refill; //summadd
 
 
-$diff = floor((strtotime("now")-strtotime("$data"))/86400); // кол-во прошедших дней с открытия вклада и до текущего месяца.
+$diff = floor((strtotime("now")-strtotime("$data"))/86400); // eee кол-во прошедших дней с открытия вклада и до текущего месяца.
 
 $now = new DateTime(); // текущее время на сервере
 $date = DateTime::createFromFormat('m/d/Y', $data); // датa в нужном формате

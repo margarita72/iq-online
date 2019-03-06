@@ -28,7 +28,7 @@
                         8-800-100-5005
                     </div>
                     <div class="phone2 d-flex justify-content-center">
-                        +7[3452]522-000
+                        +7[3452]522-000!!!
                     </div>
                 </div>
             </div>
@@ -101,7 +101,7 @@
 
                         </p>
                         <p>
-                            
+
                             <label for="" class="col-lg-4 ">Сумма вклада: </label>
                             <input type="number" required class="col-lg-2" min="1000" max="3000000" value="1000000" id="range_one" required name="deposit_amount">
                             <input type="range"  min="1000" max="3000000" value="1500000" class="range rangeone" oninput="rangeone()">
